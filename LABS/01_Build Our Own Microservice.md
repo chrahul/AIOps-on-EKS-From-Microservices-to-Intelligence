@@ -2,8 +2,6 @@
 
 #  **AIOps on EKS – From Microservices to Intelligence**
 
-Now we begin properly.
-
 ---
 
 #  PHASE 1 — Build Our Own Microservice (From Scratch)
