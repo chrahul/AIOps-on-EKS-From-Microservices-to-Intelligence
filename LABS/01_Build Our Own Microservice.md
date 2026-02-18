@@ -188,10 +188,5 @@ We now have:
 * Logs generated
 * Dockerized app
 
-This is the foundation.
-
 ---
 
-
-
-Tell me which path.
